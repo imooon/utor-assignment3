@@ -27,6 +27,8 @@ https://github.com/imooon/utor-assignment3
 
 ## URL of the deployed application
 
+https://imooon.github.io/utor-assignment3/
+
 ## License 
 
 #### Please refer to the license in the repository.
