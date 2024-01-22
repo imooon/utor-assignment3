@@ -1,6 +1,7 @@
 # Password Generator
 
-image
+![_E__BootCamp_Class_assignment3_Develop_index html](https://github.com/imooon/utor-assignment3/assets/110244046/0f90c264-cee5-4220-8890-62f05def26c0)
+
 
 ## Description
 
